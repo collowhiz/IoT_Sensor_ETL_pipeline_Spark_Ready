@@ -1,0 +1,186 @@
+# ==============================
+# Environment variables / secrets
+# ==============================
+.env
+.env.*
+!.env.example
+*.secret
+secrets/
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ==============================
+# Virtual environments
+# ==============================
+.venv/
+venv/
+env/
+ENV/
+.venv-iot/
+spark35/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ================================
+# Machine Learning / NLP caches
+# ==============================
+.cache/
+huggingface/
+transformers_cache/
+torch/
+models/
+checkpoints/
+
+# ==============================
+# Logs and temporary files
+# ==============================
+logs/
+*.log
+*.tmp
+temp/
+tmp/
+
+# ==============================
+# Spark
+# ==============================
+spark-warehouse/
+metastore_db/
+derby.log/
+
+# ==============================
+# OS files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# IDEs
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Testing / coverage
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ==============================
+# Miscellaneous
+# ==============================
+*.bak
+*.old# ==============================
+# Environment variables / secrets
+# ==============================
+.env
+.env.*
+!.env.example
+*.secret
+secrets/
+
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ==============================
+# Virtual environments
+# ==============================
+.venv/
+venv/
+env/
+ENV/
+.venv-iot/
+spark35/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+
+# ==============================
+# Machine Learning / NLP caches
+# ==============================
+.cache/
+huggingface/
+transformers_cache/
+torch/
+models/
+checkpoints/
+
+# ==============================
+# Logs and temporary files
+# ==============================
+logs/
+*.log
+*.tmp
+temp/
+tmp/
+
+# ==============================
+# Spark
+# ==============================
+spark-warehouse/
+metastore_db/
+derby.log/
+
+# ==============================
+# OS files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# IDEs
+# ==============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==============================
+# Testing / coverage
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ==============================
+# Miscellaneous
+# ==============================
+*.bak
+*.old
